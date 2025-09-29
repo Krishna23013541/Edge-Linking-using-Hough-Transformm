@@ -1,4 +1,7 @@
-# Edge-Linking-using-Hough-Transformm
+# **EXP NO. 7: Edge-Linking-using-Hough-Transformm**
+# **NAME : KRISHNA KUMAR R**
+# **REG NO : 212223230107**
+
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
@@ -24,10 +27,15 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ## Output
 
 ### Input image and grayscale image
-![output](./p1.png)
+<img width="686" height="467" alt="image" src="https://github.com/user-attachments/assets/7b479279-5e30-4a60-917f-11e122da1d55" />
+
+<img width="684" height="475" alt="image" src="https://github.com/user-attachments/assets/34a2b165-ca87-440c-a2ad-ea0508e18c5d" />
+
 
 ### Canny Edge detector output
-![output](./p2.png)
+<img width="765" height="487" alt="image" src="https://github.com/user-attachments/assets/1d496b27-baad-40e9-acee-7913df6fde93" />
+
 
 ### Display the result of Hough transform
-![output](./p3.png)
+<img width="738" height="475" alt="image" src="https://github.com/user-attachments/assets/73a051fc-bf65-4b3b-92a7-a5b514a2f707" />
+
